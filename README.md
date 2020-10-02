@@ -52,6 +52,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <a href="https://gitstats.me/c9addy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=c9addy&show_icons=true&count_private=true&theme=default&title_color=11ab3a&line_height=33" alt="c9addy's github stats" />
 </a>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
