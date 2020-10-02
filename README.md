@@ -57,37 +57,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <br />
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-12500098%20Lines%20of%20code-blue)
-
-**I'm a night 🦉** 
-
-```text
-🌞 Morning    5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
-🌆 Daytime    43 commits     ██████░░░░░░░░░░░░░░░░░░░   26.88% 
-🌃 Evening    42 commits     ██████░░░░░░░░░░░░░░░░░░░   26.25% 
-🌙 Night      70 commits     ███████████░░░░░░░░░░░░░░   43.75%
-
-```
-📅 **I'm Most Productive on Wednesdays** 
-
-```text
-Monday       18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.25% 
-Tuesday      33 commits     █████░░░░░░░░░░░░░░░░░░░░   20.62% 
-Wednesday    52 commits     ████████░░░░░░░░░░░░░░░░░   32.5% 
-Thursday     23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.37% 
-Friday       20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Saturday     8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
-Sunday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.75%
-
-```
-
-
-📊 **This week I spent my time on** 
-
-```text
-```
-
-
 <!--END_SECTION:waka-->
 
 <p align="center"> 
@@ -95,3 +64,4 @@ Sunday       6 commits      █░░░░░░░░░░░░░░░░�
   <img src="https://profile-counter.glitch.me/c9addy/count.svg" />
 </p>
 </div>
+![image](https://github.com/c9addy/c9addy/blob/main/assets/dino.gif)
