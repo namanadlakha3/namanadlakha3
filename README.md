@@ -14,7 +14,7 @@
   <img align="left" alt="LinkedIn" width="21px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 <a href="https://www.instagram.com/c9addy/?hl=en">
-  <img align="left" alt="itch.io" width="21px" src="https://raw.githubusercontent.com/c9addy/c9addy/master/assets/instagram.png" />
+  <img align="left" alt="itch.io" width="21px" src="https://github.com/c9addy/c9addy/blob/main/assets/instagram.png" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100001471824943">
   <img align="left" alt="itch.io" width="21px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
