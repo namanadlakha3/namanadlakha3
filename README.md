@@ -33,12 +33,12 @@
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/c9addy/c9addy/master/assets/cplusplus.png" title="C++"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/c9addy/c9addy/master/assets/python.png" title="Python"></code>
+<code><img height="20" src="https://github.com/c9addy/c9addy/blob/main/assets/cplusplus.png" title="C++"></code>
+<code><img height="20" src="https://github.com/c9addy/c9addy/blob/main/assets/python.png" title="Python"></code>
 <code><img height="20" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo.png" title="Java"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/c9addy/c9addy/master/assets/git.png" title="Git"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/c9addy/c9addy/master/assets/vscode.png" title="VSCode"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/c9addy/c9addy/master/assets/mysql.svg" title="Databases"></code>
+<code><img height="20" src="https://github.com/c9addy/c9addy/blob/main/assets/git.png" title="Git"></code>
+<code><img height="20" src="https://github.com/c9addy/c9addy/blob/main/assets/vscode.png" title="VSCode"></code>
+<code><img height="20" src="https://github.com/c9addy/c9addy/blob/main/assets/mysql.svg" title="Databases"></code>
 <code><img height="20" src="https://www.programmingcodex.com/blog/wp-content/uploads/2020/02/99cd34a1082d424c93463878b7d88a8a.png" title="OOPs"></code>
 <code><img height="20" src="https://www.lukegerhardt.com/images/blog/vb6-code-stats-add-in/vb6.png" title="VB"></code>
 
