@@ -63,5 +63,5 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/c9addy/count.svg" />
 </p>
-</div>
 ![image](https://github.com/c9addy/c9addy/blob/main/assets/dino.gif)
+</div>
