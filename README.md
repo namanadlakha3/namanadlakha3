@@ -53,13 +53,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=c9addy&show_icons=true&count_private=true&theme=default&title_color=11ab3a&line_height=33" alt="c9addy's github stats" />
 </a>
 
-<!-- <a href="https://c9addy.github.io/Python_Apps/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c9addy&repo=Python_Apps&theme=default&title_color=11ab3a" />
-</a>    
-<a href="https://c9addy.github.io/Unity_Gamedevelopment/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=c9addy&repo=Unity_Gamedevelopment&theme=default&title_color=11ab3a" />
-</a> -->
-
 <br />
 <br />
 
