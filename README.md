@@ -28,7 +28,7 @@
 <p> Just another TECH person. </p>
 
 - 🔭 I’m currently working on my project [Competitive Programming](https://github.com/c9addy/Competitive-Programming)
-- 🌱 I’m an Mobile Developer and a Competetive Programmer.
+- 🌱 I’m a Mobile Developer and a Competetive Programmer.
 - 💬 Ask me about anything [here](https://github.com/c9addy/c9addy/issues)
 
 **Languages and Tools:**
