@@ -32,14 +32,12 @@
 - 💬 Ask me about anything [here](https://github.com/namanadlakha/namanadlakha3/issues)
 
 **Languages and Tools:**
-
-
-<br />
 <code><img height="20" src="https://github.com/namanadlakha3/namanadlakha3/blob/main/assets/cplusplus.png" title="C++"></code>
-
-
-
 <code><img height="20" src="https://github.com/namanadlakha3/namanadlakha3/blob/main/assets/python.png" title="Python"></code>
+
+
+
+
 
 
 
@@ -47,7 +45,15 @@
 
 
 
+
+
+
+
 <code><img height="20" src="https://github.com/namanadlakha3/namanadlakha3/blob/main/assets/git.png" title="Git"></code>
+
+
+
+
 
 
 
@@ -58,7 +64,18 @@
 
 
 
+
+
+
+
+
+
+
+
 <code><img height="20" src="https://github.com/namanadlakha3/namanadlakha3/blob/main/assets/mysql.svg" title="Databases"></code>
+
+<br />
+
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github._
 
