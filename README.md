@@ -1,14 +1,14 @@
 <div class="bg-gray-dark">
 
-### Hi there, I'm [Aditya Singh!](https://github.com/c9addy/) 👋
+### Hi there, I'm [Naman Adlakha!](https://github.com/c9addy/) 👋
 
 <img align="right" width="300px" src="https://avatars.githubusercontent.com/c9addy">
 
-<a href="https://codeforces.com/profile/Addyiwnl">
+<a href="https://codeforces.com/profile/namanadlakha3">
   <img align="left" alt="Codeforces" width="21px" src="https://image.winudf.com/v2/image/Y29tLlNvZnRUZWNocy5Db2RlRm9yY2VzX2ljb25fMF9jOTA3NjNhMA/icon.png?w=170&fakeurl=1" />
 </a>
-<a href="https://www.codechef.com/users/c9addy">
-  <img align="left" alt="itch.io" width="21px" src="https://pbs.twimg.com/profile_images/1278400799157161985/tAMX00cr_400x400.jpg" />
+<a href="https://www.codechef.com/users/namanadlakha">
+  <img align="left" alt="itch.io" width="21px" src="https://www.google.com/search?q=codechef+logo&sxsrf=ALeKk02IgWICR6LIsRX2Hyc4MgFKaNOc8g:1607843480900&tbm=isch&source=iu&ictx=1&fir=uv2O9HcrNJx2vM%252CB_V8Wt7oPOSYoM%252C_&vet=1&usg=AI4_-kR8VUzkcp-qwNJ4AJ1xMzAaHQHSIA&sa=X&ved=2ahUKEwiU16Hcs8rtAhXFeisKHYpqCYAQ9QF6BAgMEAE#imgrc=uv2O9HcrNJx2vM" />
 </a>
 <a href="https://www.linkedin.com/in/aditya-singh-ba71a2116/">
   <img align="left" alt="LinkedIn" width="21px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
