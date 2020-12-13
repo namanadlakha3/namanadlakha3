@@ -32,28 +32,39 @@
 - 💬 Ask me about anything [here](https://github.com/namanadlakha/namanadlakha3/issues)
 
 **Languages and Tools:**
+
+
+<br />
 <code><img height="20" src="https://github.com/namanadlakha3/namanadlakha3/blob/main/assets/cplusplus.png" title="C++"></code>
+
+
 
 <code><img height="20" src="https://github.com/namanadlakha3/namanadlakha3/blob/main/assets/python.png" title="Python"></code>
 
+
+
 <code><img height="20" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo.png" title="Java"></code>
 
+
+
 <code><img height="20" src="https://github.com/namanadlakha3/namanadlakha3/blob/main/assets/git.png" title="Git"></code>
+
+
 
 <code><img height="20" src="https://github.com/namanadlakha3/namanadlakha3/blob/main/assets/vscode.png" title="VSCode"></code>
 
 
-<code><img height="20" src="https://github.com/namanadlakha3/namanadlakha3/blob/main/assets/mysql.svg" title="Databases"></code>
 
-<br />
+
+
+
+<code><img height="20" src="https://github.com/namanadlakha3/namanadlakha3/blob/main/assets/mysql.svg" title="Databases"></code>
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github._
 
+
 <a href="https://gitstats.me/namanadlakha3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanadlakha3&count_private=true&theme=default&title_color=11ab3a&hide=html,c%23" />
-</a>
-<a href="https://gitstats.me/namanadlakha3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=namanadlakha3&show_icons=true&count_private=true&theme=default&title_color=11ab3a&line_height=40" alt="c9addy's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=namanadlakha3&show_icons=true&count_private=true&theme=default&title_color=11ab3a&line_height=40"  />
 </a>
 <br />
 <br />
