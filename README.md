@@ -8,7 +8,7 @@
   <img align="left" alt="Codeforces" width="21px" src="https://image.winudf.com/v2/image/Y29tLlNvZnRUZWNocy5Db2RlRm9yY2VzX2ljb25fMF9jOTA3NjNhMA/icon.png?w=170&fakeurl=1" />
 </a>
 <a href="https://www.codechef.com/users/namanadlakha">
-  <img align="left" alt="itch.io" width="21px" src="https://www.google.com/search?q=codechef+logo&sxsrf=ALeKk02IgWICR6LIsRX2Hyc4MgFKaNOc8g:1607843480900&tbm=isch&source=iu&ictx=1&fir=uv2O9HcrNJx2vM%252CB_V8Wt7oPOSYoM%252C_&vet=1&usg=AI4_-kR8VUzkcp-qwNJ4AJ1xMzAaHQHSIA&sa=X&ved=2ahUKEwiU16Hcs8rtAhXFeisKHYpqCYAQ9QF6BAgMEAE#imgrc=uv2O9HcrNJx2vM" />
+  <img align="left" alt="itch.io" width="21px" src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" />
 </a>
 <a href="https://www.linkedin.com/in/aditya-singh-ba71a2116/">
   <img align="left" alt="LinkedIn" width="21px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
