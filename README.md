@@ -33,12 +33,7 @@
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://github.com/c9addy/c9addy/blob/main/assets/cplusplus.png" title="C++"></code>
-<code><img height="20" src="https://github.com/c9addy/c9addy/blob/main/assets/python.png" title="Python"></code>
-<code><img height="20" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo.png" title="Java"></code>
-<code><img height="20" src="https://github.com/c9addy/c9addy/blob/main/assets/git.png" title="Git"></code>
-<code><img height="20" src="https://github.com/c9addy/c9addy/blob/main/assets/vscode.png" title="VSCode"></code>
-<code><img height="20" src="https://github.com/c9addy/c9addy/blob/main/assets/mysql.svg" title="Databases"></code>
+
 <br />
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github._
@@ -59,5 +54,5 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/namanadlakha3/count.svg" />
 </p>
-<img align="center" src="https://github.com/c9addy/c9addy/blob/main/assets/dino.gif">
+<img align="center" src="https://github.com/namanadlakha3/namanadlakha3/blob/main/assets/dino.gif">
 </div>
