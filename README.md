@@ -34,44 +34,9 @@
 **Languages and Tools:**
 <code><img height="20" src="https://github.com/namanadlakha3/namanadlakha3/blob/main/assets/cplusplus.png" title="C++"></code>
 <code><img height="20" src="https://github.com/namanadlakha3/namanadlakha3/blob/main/assets/python.png" title="Python"></code>
-
-
-
-
-
-
-
 <code><img height="20" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo.png" title="Java"></code>
-
-
-
-
-
-
-
 <code><img height="20" src="https://github.com/namanadlakha3/namanadlakha3/blob/main/assets/git.png" title="Git"></code>
-
-
-
-
-
-
-
 <code><img height="20" src="https://github.com/namanadlakha3/namanadlakha3/blob/main/assets/vscode.png" title="VSCode"></code>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <code><img height="20" src="https://github.com/namanadlakha3/namanadlakha3/blob/main/assets/mysql.svg" title="Databases"></code>
 
 <br />
