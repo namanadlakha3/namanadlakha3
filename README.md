@@ -43,10 +43,10 @@
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github._
 
-<a href="https://gitstats.me/c9addy">
+<a href="https://gitstats.me/namanadlakha3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c9addy&count_private=true&theme=default&title_color=11ab3a&hide=html,c%23" />
 </a>
-<a href="https://gitstats.me/c9addy">
+<a href="https://gitstats.me/namanadlakha3">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=c9addy&show_icons=true&count_private=true&theme=default&title_color=11ab3a&line_height=40" alt="c9addy's github stats" />
 </a>
 <br />
