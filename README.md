@@ -11,7 +11,7 @@
   <img align="left" alt="itch.io" width="21px" src="https://www.codechef.com/misc/fb-image-icon.png" />
 </a>
 <a href="https://www.linkedin.com/in/naman-adlakha-909b1799/">
-  <img align="left" alt="LinkedIn" width="21px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+  <img align="left" alt="LinkedIn" width="21px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-1024.png" />
 </a>
 <a href="https://www.instagram.com/naman.x_d/">
   <img align="left" alt="itch.io" width="21px" src="https://github.com/namanadlakha3/namanadlakha3/blob/main/assets/instagram.png" />
