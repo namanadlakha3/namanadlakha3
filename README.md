@@ -16,9 +16,6 @@
 <a href="https://www.instagram.com/naman.x_d/">
   <img align="left" alt="itch.io" width="21px" src="https://github.com/namanadlakha3/namanadlakha3/blob/main/assets/instagram.png" />
 </a>
-<a href="https://www.facebook.com/naman.adlakha.12/">
-  <img align="left" alt="itch.io" width="21px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
-</a>
 
 
 
